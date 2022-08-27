@@ -2,6 +2,7 @@
 MARL
 
  Investment Portfolio Modeling using NN Artificial Agent's Architecture and Global v Local solutions
+- State Space control architecture application using Wavelon Network, DAG for Reinforcement Learning 
 - Predictive feature vector Weight collaborative filtering ERS
 - Multi Agent Reinforcement Learning Collusion AI Game Theory based on the union of interests between multi-agent systems that need dependable appropriated bases using Reinforcement Learning.
 - Agent collaborative passive open loop , active closed loop reinforcement learning 
