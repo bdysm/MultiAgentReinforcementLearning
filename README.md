@@ -1,5 +1,12 @@
 # MultiAgentReinforcementLearning
 MARL
+AI@Risk, Open source - Covid ‘AI Collaboration’ - Freelance 
+Social Media Discussion Speaker/ AI expert 
+https://docs.google.com/presentation/d/1wHJ6DLNKBx52ryDn7hMyYuO59O6bELggey3b050sSgw/edit#slide=id.gcd6240e431_0_249
+https://mkai.org/mkai-november-2020-ai-technical-forum-greener-ai/
+
+AI@Risk-XAI AI Game Theory Portfolio Systematic Global V Unsystematic Local Passive/Active MARL
+
 
  Investment Portfolio Modeling using NN Artificial Agent's Architecture and Global v Local solutions
 - State Space control architecture application using Wavelon Network, DAG for Reinforcement Learning 
