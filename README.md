@@ -2,6 +2,7 @@
 MARL
 AI@Risk, Open source - Covid 19 ‘AI Collaboration’ - Freelance 
 Social Media Discussion Speaker/ AI expert 
+
 -https://mkai.org/mkai-november-2020-ai-technical-forum-greener-ai/
 - Soft AI https://www.youtube.com/watch?v=XbgVMO9ekjY
 - https://docs.google.com/presentation/d/1wHJ6DLNKBx52ryDn7hMyYuO59O6bELggey3b050sSgw/edit#slide=id.gcd6240e431_0_249
