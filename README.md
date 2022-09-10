@@ -1,7 +1,7 @@
-# MultiAgentReinforcementLearning
+# State Space Multi Agent Reinforcement Learning
 MARL
 AI@Risk, Open source - Covid 19 ‘AI Collaboration’ - Freelance 
-Social Media Discussion Speaker/ AI expert 
+Social Media Discussion Speaker/ AI expert forum
 
 -https://mkai.org/mkai-november-2020-ai-technical-forum-greener-ai/
 - Soft AI https://www.youtube.com/watch?v=XbgVMO9ekjY
@@ -9,8 +9,10 @@ Social Media Discussion Speaker/ AI expert
 
 Reference: https://arxiv.org/ftp/arxiv/papers/1506/1506.05608.pdf
 
+- In Conclusion: Adopting a Global AI/ML models as benchmarks Case Study #Transfomers and training them Locally reduces risk of AI projects failure. 
 
-AI@Risk-XAI AI Game Theory Portfolio Systematic Global V Unsystematic Local 
+
+Case Study using Porfolio Risk Appraoch and AI Game Theory in Portfolio Systematic Global V Unsystematic Local 
 Passive/Active MARL using State Space 
 
  Investment Portfolio Modeling using NN Artificial Agent's Architecture and Global v Local solutions
