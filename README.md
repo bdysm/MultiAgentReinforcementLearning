@@ -1,7 +1,10 @@
 # State Space Multi Agent Reinforcement Learning
-MARL
+#MARL 
+
+Reference: https://arxiv.org/ftp/arxiv/papers/1506/1506.05608.pdf
+
 AI@Risk, Open source - Covid 19 ‘AI Collaboration’ - Freelance 
-Social Media Discussion Speaker/ AI expert forum
+Social Media Discussion Speaker/ AI expert forum discussion/presentation
 
 -https://mkai.org/mkai-november-2020-ai-technical-forum-greener-ai/
 - Soft AI https://www.youtube.com/watch?v=XbgVMO9ekjY
