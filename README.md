@@ -26,3 +26,6 @@ Passive/Active MARL using State Space
 XAI Tracking error converges to the global financial system reference trajectory due to control law algorithm initialization, the tracking error is state system error. The signals in the closed-loop are bounded.
 - Volatility reflects the overall risk of the Portfolios expected return and is directly attached to the index volatility, the TE presents an additional risk measurement
 -Predictive global asset ﬂows and shifts in economic cycles require an on-line adaptation of the model internal structure (Qi and Brdys, 2008; Qi and Brdys, 2009) and a recursively feasible Tracking Error.
+-	Using Global Cloud AI model development with open-source software reduces AI model risk development, deployment, and ensures CI/CD Integration, Deployment, Delivery	
+
+-	Local Unsystematic risk refers to AI model risk that are not shared with a wider market or industry. Unsystematic risks are often specific to an individual AI model risk, MLOps company, due to their management, financial obligations, or location. Unlike systematic risks, unsystematic risks can be reduced by diversifying.
