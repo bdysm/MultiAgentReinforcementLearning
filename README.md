@@ -10,11 +10,6 @@ Social Media Discussion Speaker/ AI expert forum discussion/presentation
 - Soft AI https://www.youtube.com/watch?v=XbgVMO9ekjY
 - https://docs.google.com/presentation/d/1wHJ6DLNKBx52ryDn7hMyYuO59O6bELggey3b050sSgw/edit#slide=id.gcd6240e431_0_249
 
-Reference: https://arxiv.org/ftp/arxiv/papers/1506/1506.05608.pdf
-
-- In Conclusion: Adopting a Global AI/ML models as benchmarks Case Study #Transfomers and training them Locally reduces risk of AI projects failure. 
-
-
 Case Study using Porfolio Risk Appraoch and AI Game Theory in Portfolio Systematic Global V Unsystematic Local 
 Passive/Active MARL using State Space 
 
