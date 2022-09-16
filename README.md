@@ -17,7 +17,8 @@ Passive/Active MARL using State Space
 - State Space control architecture application using Wavelon Network, DAG for Reinforcement Learning 
 - Predictive feature vector Weight collaborative filtering ERS
 - Multi Agent Reinforcement Learning Collusion AI Game Theory based on the union of interests between multi-agent systems that need dependable appropriated bases using Reinforcement Learning.
-- Agent collaborative passive open loop , active closed loop reinforcement learning 
+- Agent collaborative passive open loop , active closed loop reinforcement learning
+- Multi-Agent Systems based control approaches based on https://en.wikipedia.org/wiki/Multi-swarm_optimization
 - Artificial Agent: Identify, Assess, Monitor, Control, Evaluate, Learn, Adapt IAMCELA
 - Extended Kalman Filter Receding Horizon Control Predictive - Mean Variance Optimization 
 - Portfolio Engine Recommendation AI System based on SSRFMPC 
