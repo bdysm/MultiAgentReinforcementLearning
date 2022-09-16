@@ -3,7 +3,7 @@
 
 Reference: https://arxiv.org/ftp/arxiv/papers/1506/1506.05608.pdf
 
-AI@Risk, Open source - Covid 19 ‘AI Collaboration’ - Freelance 
+Open source - Covid 19 ‘AI Collaboration’ - Freelance 
 Social Media Discussion Speaker/ AI expert forum discussion/presentation
 
 -https://mkai.org/mkai-november-2020-ai-technical-forum-greener-ai/
@@ -20,6 +20,7 @@ Passive/Active MARL using State Space
 - Agent collaborative passive open loop , active closed loop reinforcement learning
 - Multi-Agent Systems based control approaches based on https://en.wikipedia.org/wiki/Multi-swarm_optimization
 - Open source pythonic development https://pyswarms.readthedocs.io/en/development/examples/feature_subset_selection.html
+- https://pywavelets.readthedocs.io/en/latest/ref/dwt-discrete-wavelet-transform.html
 - Artificial Agent: Identify, Assess, Monitor, Control, Evaluate, Learn, Adapt IAMCELA
 - Extended Kalman Filter Receding Horizon Control Predictive - Mean Variance Optimization 
 - Portfolio Engine Recommendation AI System based on SSRFMPC 
