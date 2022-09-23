@@ -1,5 +1,5 @@
 # State Space Multi Agent Reinforcement Learning
-#MARL 
+#MARL reference and derivation https://aleksandarhaber.com/convert-state-space-models-to-transfer-functions/
 
 Reference: https://arxiv.org/ftp/arxiv/papers/1506/1506.05608.pdf
 
