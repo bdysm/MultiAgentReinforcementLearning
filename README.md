@@ -3,6 +3,7 @@
 https://apmonitor.com/pdc/index.php/Main/ModelSimulation
 
 Reference: https://arxiv.org/ftp/arxiv/papers/1506/1506.05608.pdf
+https://www.researchgate.net/publication/38107296_Multi-Agent_Systems_in_Control_Engineering_A_Survey
 
 modeled by https://www.youtube.com/watch?v=kjzDo5f7Ecc&list=PLRKtJ4IpxJpDsOT_8YDREJrO8cQUtPUVg&index=3 Queen of data science Cassie Kozyrkov creations.
 
