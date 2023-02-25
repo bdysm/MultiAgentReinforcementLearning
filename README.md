@@ -1,3 +1,5 @@
+#chatGPT #ai #data #closedloop #semisupervisedlearning
+
 # State Space Multi Agent Reinforcement Learning
 #MARL reference and derivation https://aleksandarhaber.com/convert-state-space-models-to-transfer-functions/
 https://apmonitor.com/pdc/index.php/Main/ModelSimulation
