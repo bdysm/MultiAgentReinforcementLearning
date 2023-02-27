@@ -1,5 +1,14 @@
 #chatGPT #ai #data #closedloop #semisupervisedlearning
 
+#python implementation can be souced here under all copyright and open source protocols adhered globally promoting ai collaboration.
+
+http://aipython.org http://artint.info
+©David L Poole and Alan K Mackworth 2017-2021.
+All code is licensed under a Creative Commons Attribution-NonCommercialShareAlike 4.0 International License. See: http://creativecommons.org/licenses/
+by-nc-sa/4.0/deed.en US
+This document and all the code can be downloaded from
+http://artint.info/AIPython/ or from http://aipython.org
+
 # State Space Multi Agent Reinforcement Learning
 #MARL reference and derivation https://aleksandarhaber.com/convert-state-space-models-to-transfer-functions/
 https://apmonitor.com/pdc/index.php/Main/ModelSimulation
@@ -7,7 +16,7 @@ https://apmonitor.com/pdc/index.php/Main/ModelSimulation
 Reference: https://arxiv.org/ftp/arxiv/papers/1506/1506.05608.pdf
 https://www.researchgate.net/publication/38107296_Multi-Agent_Systems_in_Control_Engineering_A_Survey
 
-modeled by https://www.youtube.com/watch?v=kjzDo5f7Ecc&list=PLRKtJ4IpxJpDsOT_8YDREJrO8cQUtPUVg&index=3 Queen of data science  AI Cassie Kozyrkov creations.
+modeled by https://www.youtube.com/watch?v=kjzDo5f7Ecc&list=PLRKtJ4IpxJpDsOT_8YDREJrO8cQUtPUVg&index=3 Queen of data science  AI Cassie Kozyrkov creations using ai game theory and statistics.
 
 http://www.turingfinance.com/agent-based-computational-economic-models/ 
 https://en.wikipedia.org/wiki/Herbert_A._Simon#/media/File:Simons_3_stages_in_Decision_Making.gif
