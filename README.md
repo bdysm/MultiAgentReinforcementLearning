@@ -9,6 +9,13 @@ by-nc-sa/4.0/deed.en US
 This document and all the code can be downloaded from
 http://artint.info/AIPython/ or from http://aipython.org
 
+# State space (S): A state is a representation of the environment. The state space is the set of all possible states. Action space (A): The set of all possible actions the learning agent can take in the environment.
+
+A state space forms a graph in which the nodes are states and the arcs between nodes are actions. In the state space, a path is a sequence of states connected by a sequence of actions. The solution of a problem is part of the graph formed by the state space.
+
+A state space model (SSM) posits a set of latent (unobserved) variables that evolve over time with dynamics specified by a probabilistic transition model p(z[t+1] | z[t]). At each timestep, we observe a value sampled from an observation model conditioned on the current state, p(x[t] | z[t]). The special case where both the transition and observation models are Gaussians with mean specified as a linear function of the inputs, is known as a linear Gaussian state space model and supports tractable exact probabilistic calculations; see tfp.distributions.LinearGaussianStateSpaceModel for details.
+https://lnkd.in/dDS_8uhH #learning #environment
+
 # State Space Multi Agent Reinforcement Learning
 #MARL reference and derivation https://aleksandarhaber.com/convert-state-space-models-to-transfer-functions/
 https://apmonitor.com/pdc/index.php/Main/ModelSimulation
