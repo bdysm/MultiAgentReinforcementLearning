@@ -23,7 +23,7 @@ https://apmonitor.com/pdc/index.php/Main/ModelSimulation
 Reference: https://arxiv.org/ftp/arxiv/papers/1506/1506.05608.pdf
 https://www.researchgate.net/publication/38107296_Multi-Agent_Systems_in_Control_Engineering_A_Survey
 
-modeled by https://www.youtube.com/watch?v=kjzDo5f7Ecc&list=PLRKtJ4IpxJpDsOT_8YDREJrO8cQUtPUVg&index=3 Queen of data science  AI Cassie Kozyrkov creations using ai game theory and statistics.
+modeled by https://www.youtube.com/watch?v=kjzDo5f7Ecc&list=PLRKtJ4IpxJpDsOT_8YDREJrO8cQUtPUVg&index=3 Queen of data science  AI Cassie Kozyrkov creations using ai game theory and statistics. https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning
 
 http://www.turingfinance.com/agent-based-computational-economic-models/ 
 https://en.wikipedia.org/wiki/Herbert_A._Simon#/media/File:Simons_3_stages_in_Decision_Making.gif
