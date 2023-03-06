@@ -64,7 +64,8 @@ XAI Tracking error converges to the global financial system reference trajectory
 Putting it ai together: 
 
 Answering 3 of the most fundamental ml/ai questions:
-1) A.I. can replicate closely any function including complex non-linear functions, making it possible to replicate any kind of output (Reinelt et al., 2002). 2) The predicted output can be decomposed y^ into xai model weights.
+1) A.I. can replicate closely any function including complex non-linear functions, making it possible to replicate any kind of output (Reinelt et al., 2002). 
+2) The predicted output can be decomposed y^ into xai model weights.
 3) AIgorithm w ∗ (k) is verified by a decision maker it follows computational intelligence model predictions must be verified by a human agent i.e., the decision maker (Hawking, 2015) #intelligence
 Hawking, S. (2015).
 
