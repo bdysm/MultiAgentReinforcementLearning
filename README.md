@@ -73,5 +73,5 @@ Open letter on artificial intelligence calling for research on the societal impa
 
 https://lnkd.in/dKswha6Z
 
-
+never say never to ai https://colab.research.google.com/drive/1ac0K9_aa46c77XEeYtaMAfSOfmH1Bl9L?usp=sharing#scrollTo=0a2C_nneO_wp
 
