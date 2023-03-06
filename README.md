@@ -50,7 +50,9 @@ Passive/Active MARL using State Space
 - Extended Kalman Filter Receding Horizon Control Predictive - Mean Variance Optimization 
 - Portfolio Engine Recommendation AI System based on SSRFMPC 
 - Tracking Error Volatility Metric Cost Function Portfolio Optimization
-- Idiosyncratic Systemic Risk Game Theory XAI
+- Idiosyncratic Systemic Risk Game Theory XAI Efficient Exploration Using Extra Safety Budget in Constrained Policy Optimization Haotian Xu1,∗, Shengjie Wang1,∗,†
+, Zhaolei Wang2, Qing Zhuo1and Tao Zhang1,†, Senior Member, IEEE, https://arxiv.org/pdf/2302.14339.pdf 
+
 XAI Tracking error converges to the global financial system reference trajectory due to control law algorithm initialization, the tracking error is state system error. The signals in the closed-loop are bounded.
 - Volatility reflects the overall risk of the Portfolios expected return and is directly attached to the index volatility, the TE presents an additional risk measurement
 -Predictive global asset ﬂows and shifts in economic cycles require an on-line adaptation of the model internal structure (Qi and Brdys, 2008; Qi and Brdys, 2009) and a recursively feasible Tracking Error.
@@ -58,3 +60,17 @@ XAI Tracking error converges to the global financial system reference trajectory
 
 -	Local Unsystematic risk refers to AI model risk that are not shared with a wider market or industry. Unsystematic risks are often specific to an individual AI model risk, MLOps company, due to their management, financial obligations, or location. Unlike systematic risks, unsystematic risks can be reduced by diversifying.
 -https://ai4riskcontrol.webstarts.com/ssfrmpc.html
+
+Putting it ai together: 
+
+Answering 3 of the most fundamental ml/ai questions:
+1) A.I. can replicate closely any function including complex non-linear functions, making it possible to replicate any kind of output (Reinelt et al., 2002). 2) The predicted output can be decomposed y^ into xai model weights.
+3) AIgorithm w ∗ (k) is verified by a decision maker it follows computational intelligence model predictions must be verified by a human agent i.e., the decision maker (Hawking, 2015) #intelligence
+Hawking, S. (2015).
+
+Open letter on artificial intelligence calling for research on the societal impacts of artificial intelligence., https://lnkd.in/g88bw9H
+
+https://lnkd.in/dKswha6Z
+
+
+
