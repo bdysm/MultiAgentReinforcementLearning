@@ -1,4 +1,4 @@
-#chatGPT #ai #data #closedloop #semisupervisedlearning
+#chatGPT #AI #data #closedloop #semisupervisedlearning
 
 #python implementation can be souced here under all copyright and open source protocols adhered globally promoting ai collaboration.
 
@@ -14,7 +14,7 @@ http://artint.info/AIPython/ or from http://aipython.org
 A state space forms a graph in which the nodes are states and the arcs between nodes are actions. In the state space, a path is a sequence of states connected by a sequence of actions. The solution of a problem is part of the graph formed by the state space.
 
 A state space model (SSM) posits a set of latent (unobserved) variables that evolve over time with dynamics specified by a probabilistic transition model p(z[t+1] | z[t]). At each timestep, we observe a value sampled from an observation model conditioned on the current state, p(x[t] | z[t]). The special case where both the transition and observation models are Gaussians with mean specified as a linear function of the inputs, is known as a linear Gaussian state space model and supports tractable exact probabilistic calculations; see tfp.distributions.LinearGaussianStateSpaceModel for details.
-https://lnkd.in/dDS_8uhH #learning #environment
+#learning #environment
 
 # State Space Multi Agent Reinforcement Learning
 #MARL reference and derivation https://aleksandarhaber.com/convert-state-space-models-to-transfer-functions/
@@ -23,7 +23,7 @@ https://apmonitor.com/pdc/index.php/Main/ModelSimulation
 Reference: https://arxiv.org/ftp/arxiv/papers/1506/1506.05608.pdf
 https://www.researchgate.net/publication/38107296_Multi-Agent_Systems_in_Control_Engineering_A_Survey
 
-modeled by https://www.youtube.com/watch?v=kjzDo5f7Ecc&list=PLRKtJ4IpxJpDsOT_8YDREJrO8cQUtPUVg&index=3 Queen of data science  AI Cassie Kozyrkov creations using ai game theory and statistics. https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning
+modeled by https://www.youtube.com/watch?v=kjzDo5f7Ecc&list=PLRKtJ4IpxJpDsOT_8YDREJrO8cQUtPUVg&index=3 Queen of data science  AI Cassie Kozyrkov creations using AI Game Theory and statistics. https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning
 
 http://www.turingfinance.com/agent-based-computational-economic-models/ 
 https://en.wikipedia.org/wiki/Herbert_A._Simon#/media/File:Simons_3_stages_in_Decision_Making.gif
@@ -61,7 +61,7 @@ XAI Tracking error converges to the global financial system reference trajectory
 -	Local Unsystematic risk refers to AI model risk that are not shared with a wider market or industry. Unsystematic risks are often specific to an individual AI model risk, MLOps company, due to their management, financial obligations, or location. Unlike systematic risks, unsystematic risks can be reduced by diversifying.
 -https://ai4riskcontrol.webstarts.com/ssfrmpc.html
 
-Putting it ai together: 
+Putting it AI together: 
 
 Answering 3 of the most fundamental ml/ai questions:
 1) A.I. can replicate closely any function including complex non-linear functions, making it possible to replicate any kind of output (Reinelt et al., 2002). 
@@ -69,9 +69,7 @@ Answering 3 of the most fundamental ml/ai questions:
 3) AIgorithm w ∗ (k) is verified by a decision maker it follows computational intelligence model predictions must be verified by a human agent i.e., the decision maker (Hawking, 2015) #intelligence
 Hawking, S. (2015).
 
-Open letter on artificial intelligence calling for research on the societal impacts of artificial intelligence., https://lnkd.in/g88bw9H
+Open letter on artificial intelligence calling for research on the societal impacts of artificial intelligence.
 
-https://lnkd.in/dKswha6Z
-
-never say never to ai https://colab.research.google.com/drive/1ac0K9_aa46c77XEeYtaMAfSOfmH1Bl9L?usp=sharing#scrollTo=0a2C_nneO_wp
+never say never to AI creativity https://colab.research.google.com/drive/1ac0K9_aa46c77XEeYtaMAfSOfmH1Bl9L?usp=sharing#scrollTo=0a2C_nneO_wp
 
