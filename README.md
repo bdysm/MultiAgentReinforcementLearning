@@ -1,4 +1,4 @@
-#chatGPT #AI #data #closedloop #semisupervisedlearning
+#chatGPT #AI #data #closedloop #semisupervisedlearning #secrets of #AI 
 
 #python implementation can be souced here under all copyright and open source protocols adhered globally promoting ai collaboration.
 
@@ -61,7 +61,7 @@ XAI Tracking error converges to the global financial system reference trajectory
 -	Local Unsystematic risk refers to AI model risk that are not shared with a wider market or industry. Unsystematic risks are often specific to an individual AI model risk, MLOps company, due to their management, financial obligations, or location. Unlike systematic risks, unsystematic risks can be reduced by diversifying.
 -https://ai4riskcontrol.webstarts.com/ssfrmpc.html
 
-Putting it AI together: 
+Putting it AI together: AI secrets [ Psss ] 
 
 Answering 3 of the most fundamental ml/ai questions:
 1) A.I. can replicate closely any function including complex non-linear functions, making it possible to replicate any kind of output (Reinelt et al., 2002). 
