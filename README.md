@@ -59,7 +59,6 @@ XAI Tracking error converges to the global financial system reference trajectory
 -	Using Global Cloud AI model development with open-source software reduces AI model risk development, deployment, and ensures CI/CD Integration, Deployment, Delivery	
 
 -	Local Unsystematic risk refers to AI model risk that are not shared with a wider market or industry. Unsystematic risks are often specific to an individual AI model risk, MLOps company, due to their management, financial obligations, or location. Unlike systematic risks, unsystematic risks can be reduced by diversifying.
--https://ai4riskcontrol.webstarts.com/ssfrmpc.html
 
 Putting it AI together: AI secrets [ Psss ] 
 
