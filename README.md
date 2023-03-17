@@ -1,5 +1,7 @@
 #chatGPT #AI #data #closedloop #semisupervisedlearning #secrets of #AI 
 
+reference: https://theaisummer.com/Actor_critics/ xai model Actor-Critics and how A2C and A3C 
+
 #python implementation can be souced here under all copyright and open source protocols adhered globally promoting ai collaboration.
 
 http://aipython.org http://artint.info
