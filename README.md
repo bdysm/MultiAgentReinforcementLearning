@@ -50,7 +50,7 @@ Passive/Active MARL using State Space
 - https://pywavelets.readthedocs.io/en/latest/ref/dwt-discrete-wavelet-transform.html
 - Artificial Agent: Identify, Assess, Monitor, Control, Evaluate, Learn, Adapt IAMCELA
 - Extended Kalman Filter Receding Horizon Control Predictive - Mean Variance Optimization 
-- Portfolio Engine Recommendation AI System based on SSRFMPC 
+- Portfolio Engine Recommendation AI System based on State Space MARL && Game Thoery
 - Tracking Error Volatility Metric Cost Function Portfolio Optimization
 - Idiosyncratic Systemic Risk Game Theory XAI Efficient Exploration Using Extra Safety Budget in Constrained Policy Optimization Haotian Xu1,∗, Shengjie Wang1,∗,†
 , Zhaolei Wang2, Qing Zhuo1and Tao Zhang1,†, Senior Member, IEEE, https://arxiv.org/pdf/2302.14339.pdf 
@@ -64,13 +64,12 @@ XAI Tracking error converges to the global financial system reference trajectory
 
 Putting it AI together: AI secrets [ Psss ] 
 
-Answering 3 of the most fundamental ml/ai questions:
+Answering 3 of the most fundamental ML/AI questions:
 1) A.I. can replicate closely any function including complex non-linear functions, making it possible to replicate any kind of output (Reinelt et al., 2002). 
 2) The predicted output can be decomposed y^ into xai model weights.
 3) AIgorithm w ∗ (k) is verified by a decision maker it follows computational intelligence model predictions must be verified by a human agent i.e., the decision maker (Hawking, 2015) #intelligence
-Hawking, S. (2015).
 
-Open letter on artificial intelligence calling for research on the societal impacts of artificial intelligence.
+Hawking, 2015 Open letter on artificial intelligence calling for research on the societal impacts of artificial intelligence.
 
 never say never to AI creativity https://colab.research.google.com/drive/1ac0K9_aa46c77XEeYtaMAfSOfmH1Bl9L?usp=sharing#scrollTo=0a2C_nneO_wp
 
