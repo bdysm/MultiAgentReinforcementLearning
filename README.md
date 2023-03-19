@@ -2,7 +2,7 @@
 
 reference: https://theaisummer.com/Actor_critics/ xai model Actor-Critics and how A2C and A3C 
 
-#python implementation can be souced here under all copyright and open source protocols adhered globally promoting ai collaboration.
+#python implementation can be souced here under all copyright and open source protocols adhered globally promoting AI collaboration.
 
 http://aipython.org http://artint.info
 ©David L Poole and Alan K Mackworth 2017-2021.
@@ -16,7 +16,10 @@ http://artint.info/AIPython/ or from http://aipython.org
 A state space forms a graph in which the nodes are states and the arcs between nodes are actions. In the state space, a path is a sequence of states connected by a sequence of actions. The solution of a problem is part of the graph formed by the state space.
 
 A state space model (SSM) posits a set of latent (unobserved) variables that evolve over time with dynamics specified by a probabilistic transition model p(z[t+1] | z[t]). At each timestep, we observe a value sampled from an observation model conditioned on the current state, p(x[t] | z[t]). The special case where both the transition and observation models are Gaussians with mean specified as a linear function of the inputs, is known as a linear Gaussian state space model and supports tractable exact probabilistic calculations; see tfp.distributions.LinearGaussianStateSpaceModel for details.
-#learning #environment
+#learning #environment #python
+
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.StateSpace.html
+https://en.wikipedia.org/wiki/State_space_(computer_science)
 
 # State Space Multi Agent Reinforcement Learning
 #MARL reference and derivation https://aleksandarhaber.com/convert-state-space-models-to-transfer-functions/
