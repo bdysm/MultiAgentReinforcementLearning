@@ -1,3 +1,9 @@
+Data Science User Case: 
+
+A.I. decision advantage intelligence model 
+
+definition: Within intelligence circles, achieving decision advantage requires greatly accelerated tasking, collecting, processing, exploiting, and dissemination of operationally useful information that informs timely decisions at all levels of the joint operating forces and government.
+
 #chatGPT #AI #data #closedloop #semisupervisedlearning #secrets of #AI 
 
 reference: https://theaisummer.com/Actor_critics/ xai model Actor-Critics and how A2C and A3C 
