@@ -4,6 +4,12 @@ A.I. decision advantage intelligence model
 
 definition: Within intelligence circles, achieving decision advantage requires greatly accelerated tasking, collecting, processing, exploiting, and dissemination of operationally useful information that informs timely decisions at all levels of the joint operating forces and government.
 
+Decision advantage is what results when intelligence enables a decision-maker to better understand and address an issue. It requires:
+
+1) Intelligence that is timely, accurate, and relevant to a given issue and;
+
+2) At least one decision-maker who possesses the expertise and resources needed to evaluate and action the intelligence within the context of the issue.
+
 #chatGPT #AI #data #closedloop #semisupervisedlearning #secrets of #AI 
 
 reference: https://theaisummer.com/Actor_critics/ xai model Actor-Critics and how A2C and A3C 
