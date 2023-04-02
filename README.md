@@ -40,6 +40,8 @@ https://www.learnpytorch.io/pytorch_cheatsheet/ Zero to Mastery Learn PyTorch fo
 
 GA in PyTorch https://github.com/ahmedfgad/TorchGA 
 
+Apps in Python https://python-course.eu/applications-python/graphs-python.php 
+
 Model Definition: Most models are wrong but some AI models are useful in adaptive and changing global environment
 
 # State space (S): A state is a representation of the environment. The state space is the set of all possible states. Action space (A): The set of all possible actions the learning agent can take in the environment.
