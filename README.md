@@ -10,6 +10,7 @@ Decision advantage is what results when intelligence enables a decision-maker to
 
 2) At least one decision-maker who possesses the expertise and resources needed to evaluate and action the intelligence within the context of the issue.
 
+#AI #tool https://gto76.github.io/python-cheatsheet/index.html?theme=dark3
 #chatGPT #AI #data #closedloop #semisupervisedlearning #secrets of #AI 
 
 reference: https://theaisummer.com/Actor_critics/ xai model Actor-Critics and how A2C and A3C 
@@ -59,10 +60,6 @@ the SDA includes 3 main steps:
 (2) Detect
 (3) Capture
 A `max-generation' is the trial number of each searching for prey under given initial conditions, which is one of the widely used criteria for the simulation termination.
-
-Please find full version zip file via the link:
-
-http://1drv.ms/1nGzn1x
 
 Cite As
 Leo Chen (2023). SwarmDolphin - The Swarm Dolphin Algorithm (SDA) (https://www.mathworks.com/matlabcentral/fileexchange/45965-swarmdolphin-the-swarm-dolphin-algorithm-sda), MATLAB Central File Exchange. Retrieved April 2, 2023.
