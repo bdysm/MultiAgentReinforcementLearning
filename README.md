@@ -23,6 +23,20 @@ by-nc-sa/4.0/deed.en US
 This document and all the code can be downloaded from
 http://artint.info/AIPython/ or from http://aipython.org
 
+NeuroMANCER is a Pytorch-based framework for solving parametric constrained optimization problems, physics-informed system identification, and parametric model predictive control.
+
+open-source code: https://github.com/pnnl/neuromancer
+
+Developed by the team at PNNL: Aaron Tuor, Jan Drgona, Mia Skomski, Stefan Dernbach, James Koch, Zhao Chen, Christian Møldrup Legaard, Draguna Vrabie
+
+March 21, 2023Jure Šorn
+Comprehensive Python Cheatsheet
+Download text file, Buy PDF, Fork me on GitHub, Check out FAQ or Switch to dark theme 
+
+https://gto76.github.io/python-cheatsheet/
+
+Model Definition: Most models are wrong but some AI models are useful in adative and changing environment
+
 # State space (S): A state is a representation of the environment. The state space is the set of all possible states. Action space (A): The set of all possible actions the learning agent can take in the environment.
 
 A state space forms a graph in which the nodes are states and the arcs between nodes are actions. In the state space, a path is a sequence of states connected by a sequence of actions. The solution of a problem is part of the graph formed by the state space.
