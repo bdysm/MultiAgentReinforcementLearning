@@ -23,7 +23,7 @@ by-nc-sa/4.0/deed.en US
 This document and all the code can be downloaded from
 http://artint.info/AIPython/ or from http://aipython.org
 
-NeuroMANCER is a Pytorch-based framework for solving parametric constrained optimization problems, physics-informed system identification, and parametric model predictive control.
+NeuroMANCER is a Pytorch-based framework for solving parametric constrained optimization problems, physics-informed system identification, and parametric model predictive control. Developed by the team at PNNL: Aaron Tuor, Jan Drgona, Mia Skomski, Stefan Dernbach, James Koch, Zhao Chen, Christian Møldrup Legaard, Draguna Vrabie
 
 open-source code: https://github.com/pnnl/neuromancer
 
@@ -35,7 +35,9 @@ Download text file, Buy PDF, Fork me on GitHub, Check out FAQ or Switch to dark 
 
 https://gto76.github.io/python-cheatsheet/
 
-Model Definition: Most models are wrong but some AI models are useful in adative and changing environment
+https://www.learnpytorch.io/pytorch_cheatsheet/ Zero to Mastery Learn PyTorch for Deep Learning 
+
+Model Definition: Most models are wrong but some AI models are useful in adaptive and changing global environment
 
 # State space (S): A state is a representation of the environment. The state space is the set of all possible states. Action space (A): The set of all possible actions the learning agent can take in the environment.
 
@@ -46,6 +48,33 @@ A state space model (SSM) posits a set of latent (unobserved) variables that evo
 
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.StateSpace.html
 https://en.wikipedia.org/wiki/State_space_(computer_science)
+
+State , Action are metaheuristic https://pypi.org/project/geneticalgorithm/ https://pypi.org/project/evolutionary-algorithm/ simulations
+
+reference: https://en.wikipedia.org/wiki/Ant_colony 
+           https://en.wikipedia.org/wiki/Particle_swarm_optimization
+           SwarmDolphin - The Swarm Dolphin Algorithm (SDA) SwarmDolphin - The Swarm Dolphin Algorithm (SDA)
+the SDA includes 3 main steps:
+(1) Search
+(2) Detect
+(3) Capture
+A `max-generation' is the trial number of each searching for prey under given initial conditions, which is one of the widely used criteria for the simulation termination.
+
+Please find full version zip file via the link:
+
+http://1drv.ms/1nGzn1x
+
+Cite As
+Leo Chen (2023). SwarmDolphin - The Swarm Dolphin Algorithm (SDA) (https://www.mathworks.com/matlabcentral/fileexchange/45965-swarmdolphin-the-swarm-dolphin-algorithm-sda), MATLAB Central File Exchange. Retrieved April 2, 2023.
+
+A game theoretic framework for incentive-based models of intrinsic motivation in artificial systems #reward #action #play # epsidoes #simulations
+
+An emerging body of research is focusing on understanding and building artificial systems that can achieve open-ended development influenced by intrinsic motivations. In particular, research in robotics and machine learning is yielding systems and algorithms with increasing capacity for self-directed learning and autonomy. Traditional software architectures and algorithms are being augmented with intrinsic motivations to drive cumulative acquisition of knowledge and skills. Intrinsic motivations have recently been considered in reinforcement learning, active learning and supervised learning settings among others. This paper considers game theory as a novel setting for intrinsic motivation. A game theoretic framework for intrinsic motivation is formulated by introducing the concept of optimally motivating incentive as a lens through which players perceive a game. Transformations of four well-known mixed-motive games are presented to demonstrate the perceived games when players' optimally motivating incentive falls in three cases corresponding to strong power, affiliation and achievement motivation. We use agent-based simulations to demonstrate that players with different optimally motivating incentive act differently as a result of their altered perception of the game. We discuss the implications of these results both for modeling human behavior and for designing artificial agents or robots.
+
+reference: https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00791/full
+           https://www.geeksforgeeks.org/game-theory-in-ai/ Multi_Agent RL 
+          
+Game theory is basically a branch of mathematics that is used to typical strategic interaction between different players (agents), all of which are equally rational, in a context with predefined rules (of playing or maneuvering) and outcomes. Every player or agent is a rational entity who is selfish and tries to maximize the reward to be obtained using a particular strategy. All the players abide by certain rules in order to receive a predefined playoff- a reward after a certain outcome. Hence, a GAME can be defined as a set of players, actions, strategies, and a final playoff for which all the players are competing. 
 
 # State Space Multi Agent Reinforcement Learning
 #MARL reference and derivation https://aleksandarhaber.com/convert-state-space-models-to-transfer-functions/
