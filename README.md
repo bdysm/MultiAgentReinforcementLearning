@@ -38,6 +38,8 @@ https://gto76.github.io/python-cheatsheet/
 
 https://www.learnpytorch.io/pytorch_cheatsheet/ Zero to Mastery Learn PyTorch for Deep Learning 
 
+GA in PyTorch https://github.com/ahmedfgad/TorchGA 
+
 Model Definition: Most models are wrong but some AI models are useful in adaptive and changing global environment
 
 # State space (S): A state is a representation of the environment. The state space is the set of all possible states. Action space (A): The set of all possible actions the learning agent can take in the environment.
@@ -131,4 +133,12 @@ never say never to AI creativity https://colab.research.google.com/drive/1ac0K9_
 Coding music Collaboration preference list Geek Game Players ... SSMARL Soundcoud page (https://soundcloud.com/dj-jo-public). 
 LTJ Bukem presents Logical Progression (CD-B mixed set, original 1996 version) Intelligent DnB
 Rec Sys based on Coding music preferences 
+Machine Learning Control: Genetic Algorithms: https://www.youtube.com/watch?v=CZE86BPDqCI Steve Brunton
+Daniel Shiffman playlist GA https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV
+Genetic Algorithms + Neural Networks = Best of Both Worlds https://towardsdatascience.com/gas-and-nns-6a41f1e8146d
+Neural Networks coupled with Genetic Algorithms can really accelerate the learning process to solve a certain problem. RL simulations using genetic algo.'s 
+https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_quick_guide.htm
+
+
+
 
