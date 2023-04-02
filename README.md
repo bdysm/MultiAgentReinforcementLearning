@@ -138,7 +138,7 @@ Daniel Shiffman playlist GA https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bJ
 Genetic Algorithms + Neural Networks = Best of Both Worlds https://towardsdatascience.com/gas-and-nns-6a41f1e8146d
 Neural Networks coupled with Genetic Algorithms can really accelerate the learning process to solve a certain problem. RL simulations using genetic algo.'s 
 https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_quick_guide.htm
-
-
-
+CANFIS model is the result of the combination of adaptable fuzzy inputs with a neural network in order to have a rapid and more accurate predictor. 
+Co- Active Adaptive Neuro Fuzzy Inference System from scratch in python https://www.sciencedirect.com/science/article/pii/S0098300412000398 
+https://github.com/7dj7/CANFIS_scratch/blob/main/anfis.py
 
