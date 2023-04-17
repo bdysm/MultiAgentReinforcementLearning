@@ -155,4 +155,8 @@ https://github.com/huggingface/transformers/releases/tag/v4.28.0
 https://dev.to/leandronsp/git-fundamentals-a-complete-guide-do7
 https://github.blog/2020-12-18-learn-about-ghapi-a-new-third-party-python-client-for-the-github-api/
 
+https://googlecloudcheatsheet.withgoogle.com/
+https://www.bluematador.com/learn/aws-cli-cheatsheet
+https://github.com/ferhaty/azure-cli-cheatsheet
+
 
