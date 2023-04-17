@@ -144,3 +144,15 @@ CANFIS model is the result of the combination of adaptable fuzzy inputs with a n
 Co- Active Adaptive Neuro Fuzzy Inference System from scratch in python https://www.sciencedirect.com/science/article/pii/S0098300412000398 
 https://github.com/7dj7/CANFIS_scratch/blob/main/anfis.py
 control laws https://apmonitor.com/wiki/index.php/Apps/DroneFlight
+
+SoTA.i. 
+https://index.quantumstat.com/
+https://paperswithcode.com/sota
+http://www.turingfinance.com/misconceptions-about-neural-networks/
+
+https://www.reddit.com/r/flask/comments/gje22a/how_to_write_a_python_flask_rest_api_and_use/
+https://github.com/huggingface/transformers/releases/tag/v4.28.0
+https://dev.to/leandronsp/git-fundamentals-a-complete-guide-do7
+https://github.blog/2020-12-18-learn-about-ghapi-a-new-third-party-python-client-for-the-github-api/
+
+
