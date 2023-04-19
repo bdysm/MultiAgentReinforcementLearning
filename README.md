@@ -10,7 +10,8 @@ Decision advantage is what results when intelligence enables a decision-maker to
 
 2) At least one decision-maker who possesses the expertise and resources needed to evaluate and action the intelligence within the context of the issue.
 
-In a fast paced techy world of #GenAI there is imperfect information gain usually not linear transmitted globally # non constatnt velocity representing a non stationary graph GNN in  a state space decomposition environment and clustered asynchronous clusters of human agents, bots or both referenced by https://github.com/h2oai/h2ogpt evolution. 
+In a fast paced techy world of #GenAI there is imperfect information gain usually not linear transmitted globally # non constatnt velocity representing a non stationary graph GNN in  a state space decomposition environment and clustered asynchronous clusters of human agents, bots or both referenced by https://github.com/h2oai/h2ogpt evolution diffussion model GPU usuage  https://yang-song.net/blog/2021/score/ https://lilianweng.github.io/posts/2021-07-11-diffusion-models/?utm_source=pocket_saves
+
 
 #AI #tool https://gto76.github.io/python-cheatsheet/index.html?theme=dark3
 #chatGPT #AI #data #closedloop #semisupervisedlearning #secrets of #AI 
