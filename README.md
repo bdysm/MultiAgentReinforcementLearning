@@ -165,7 +165,7 @@ https://github.com/ferhaty/azure-cli-cheatsheet
 
 https://mlflow.org/docs/latest/models.html
 
-####################################################################################################################################################################################""" https://theaisummer.com/apache-airflow-tutorial/
+#######################################################################################################################################""" https://theaisummer.com/apache-airflow-tutorial/
 https://tooploox.com/genai-recap-5-takeaways-from-the-generative-ai-conference
 https://limelightmagazine.com.au/features/decoding-da-vinci/
 https://python-course.eu/applications-python/finite-state-machine.php
