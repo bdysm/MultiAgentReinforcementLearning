@@ -136,6 +136,9 @@ Hawking, 2015 Open letter on artificial intelligence calling for research on the
 
 never say never to AI creativity https://colab.research.google.com/drive/1ac0K9_aa46c77XEeYtaMAfSOfmH1Bl9L?usp=sharing#scrollTo=0a2C_nneO_wp
 
+
+Appendix: 
+
 Coding music Collaboration preference list Geek Game Players ... SSMARL Soundcoud page (https://soundcloud.com/dj-jo-public). 
 LTJ Bukem presents Logical Progression (CD-B mixed set, original 1996 version) Intelligent DnB
 Rec Sys based on Coding music preferences 
@@ -165,7 +168,7 @@ https://github.com/ferhaty/azure-cli-cheatsheet
 
 https://mlflow.org/docs/latest/models.html
 
-#######################################################################################################################################""" https://theaisummer.com/apache-airflow-tutorial/
+###################################################################################################""" https://theaisummer.com/apache-airflow-tutorial/
 https://tooploox.com/genai-recap-5-takeaways-from-the-generative-ai-conference
 https://limelightmagazine.com.au/features/decoding-da-vinci/
 https://python-course.eu/applications-python/finite-state-machine.php
@@ -185,4 +188,6 @@ https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants
 https://pytorch.org/docs/stable/elastic/metrics.html
 https://tooploox.com/genai-recap-5-takeaways-from-the-generative-ai-conference
 
-
+https://www.youtube.com/watch?v=XJRW6jamUHk&t=15s Understanding the Z-Transform
+Matlab Psss Feedback Loop Transformation Function 
+#AI 
