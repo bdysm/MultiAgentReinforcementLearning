@@ -57,6 +57,7 @@ A state space model (SSM) posits a set of latent (unobserved) variables that evo
 
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.StateSpace.html
 https://en.wikipedia.org/wiki/State_space_(computer_science)
+https://en.wikipedia.org/wiki/Closed-loop_transfer_function
 
 State , Action are metaheuristic https://pypi.org/project/geneticalgorithm/ https://pypi.org/project/evolutionary-algorithm/ simulations
 
@@ -190,4 +191,4 @@ https://tooploox.com/genai-recap-5-takeaways-from-the-generative-ai-conference
 
 https://www.youtube.com/watch?v=XJRW6jamUHk&t=15s Understanding the Z-Transform
 Matlab Psss Feedback Loop Transformation Function 
-#AI 
+#AI https://en.wikipedia.org/wiki/Closed-loop_transfer_function
