@@ -170,6 +170,12 @@ https://github.com/ferhaty/azure-cli-cheatsheet
 https://mlflow.org/docs/latest/models.html
 
 https://aman.ai/code/data-structures/
+https://pytorch.org/docs/stable/generated/torch.nn.MultiheadAttention.html
+https://huggingface.co/dslim/bert-base-NER
+https://colab.research.google.com/github/wandb/examples/blob/master/colabs/intro/Intro_to_Weights_%26_Biases.ipynb
+https://e2eml.school/transformers.html
+https://github.com/eugeneyan/open-llms
+https://gist.github.com/Abonia1/d95c3a4f8640bfaf0cceb3ee51fffcfd
 
 ###################################################################################################""" https://theaisummer.com/apache-airflow-tutorial/
 https://tooploox.com/genai-recap-5-takeaways-from-the-generative-ai-conference
