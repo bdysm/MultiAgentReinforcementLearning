@@ -169,6 +169,8 @@ https://github.com/ferhaty/azure-cli-cheatsheet
 
 https://mlflow.org/docs/latest/models.html
 
+https://aman.ai/code/data-structures/
+
 ###################################################################################################""" https://theaisummer.com/apache-airflow-tutorial/
 https://tooploox.com/genai-recap-5-takeaways-from-the-generative-ai-conference
 https://limelightmagazine.com.au/features/decoding-da-vinci/
@@ -177,11 +179,11 @@ https://python-course.eu/applications-python/graphs-python.php
 https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3 """
 
 5 GenAI Key takeaways
- 1: the future of marketing (but not only)
- 2: the human touch is crucial for keeping on the surface
- 3: models will get both larger and smaller
- 4: models need to stop hallucinating 
- 5: Integration is everything
+ 1: the future of DIGITAL marketing (but not only)
+ 2: the human touch is crucial for keeping AI on the surface
+ 3: AI models will get both larger and smaller
+ 4: ai models need to stop hallucinating 
+ 5: Integration is everything CI/CD Cloud 
 
 Psss Secrets of .. https://tooploox.com/genai-recap-5-takeaways-from-the-generative-ai-conference
 
