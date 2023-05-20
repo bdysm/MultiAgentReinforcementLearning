@@ -184,7 +184,7 @@ https://e2eml.school/transformers.html
 https://github.com/eugeneyan/open-llms
 https://gist.github.com/Abonia1/d95c3a4f8640bfaf0cceb3ee51fffcfd
 
-###################################################################################################""" https://theaisummer.com/apache-airflow-tutorial/
+#############################################################################################""" https://theaisummer.com/apache-airflow-tutorial/
 https://tooploox.com/genai-recap-5-takeaways-from-the-generative-ai-conference
 https://limelightmagazine.com.au/features/decoding-da-vinci/
 https://python-course.eu/applications-python/finite-state-machine.php
