@@ -200,6 +200,8 @@ https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-u
 
 Psss Secrets of .. https://tooploox.com/genai-recap-5-takeaways-from-the-generative-ai-conference
 
+demo's https://github.com/gradio-app/gradio 
+
 https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants
 https://pytorch.org/docs/stable/elastic/metrics.html
 https://tooploox.com/genai-recap-5-takeaways-from-the-generative-ai-conference
