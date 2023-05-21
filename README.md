@@ -15,6 +15,7 @@ In a fast paced techy world of #GenAI there is imperfect information gain usuall
 https://www.builder.ai/builder-cloud
 https://huggingface.co/docs/hub/spaces
 https://streamlit.io/
+https://pytorch.org/blog/a-better-transformer-for-fast-transformer-encoder-inference/
 
 #AI #tool https://gto76.github.io/python-cheatsheet/index.html?theme=dark3
 #chatGPT #AI #data #closedloop #semisupervisedlearning #secrets of #AI 
