@@ -180,6 +180,8 @@ https://www.bluematador.com/learn/aws-cli-cheatsheet
 https://github.com/ferhaty/azure-cli-cheatsheet
 
 https://mlflow.org/docs/latest/models.html
+https://madewithml.com/
+https://github.com/NielsRogge/Transformers-Tutorials/tree/master/TrOCR
 
 https://aman.ai/code/data-structures/
 https://pytorch.org/docs/stable/generated/torch.nn.MultiheadAttention.html
