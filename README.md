@@ -135,7 +135,7 @@ https://github.com/huggingface/transformers
 
 -	Local Unsystematic risk refers to AI model risk that are not shared with a wider market or industry. Unsystematic risks are often specific to an individual AI model risk, MLOps company, due to their management, financial obligations, or location. Unlike systematic risks, unsystematic risks can be reduced by diversifying.
 
-Putting it AI together: AI secrets [ Psss ] 
+Putting it AI together: AI secrets [ Psss ] https://paperswithcode.com/task/transfer-learning
 
 Answering 3 of the most fundamental ML/AI questions:
 1) A.I. can replicate closely any function including complex non-linear functions, making it possible to replicate any kind of output (Reinelt et al., 2002). 
