@@ -146,6 +146,8 @@ Hawking, 2015 Open letter on artificial intelligence calling for research on the
 never say never to AI creativity https://colab.research.google.com/drive/1ac0K9_aa46c77XEeYtaMAfSOfmH1Bl9L?usp=sharing#scrollTo=0a2C_nneO_wp
 https://onnxruntime.ai/
 https://huggingface.co/HuggingFaceH4/starchat-alpha#bias-risks-and-limitations
+https://streamlit.io/
+https://gradio.app/docs/
 
 Appendix: 
 
