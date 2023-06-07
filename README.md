@@ -20,6 +20,9 @@ https://pytorch.org/blog/a-better-transformer-for-fast-transformer-encoder-infer
 #AI #tool https://gto76.github.io/python-cheatsheet/index.html?theme=dark3
 #chatGPT #AI #data #closedloop #semisupervisedlearning #secrets of #AI 
 
+Leaderboard of recent Llama models
+https://weightwatcher.ai/leaderboard.html
+
 Psss ai is speed, size, performance http://incompleteideas.net/IncIdeas/BitterLesson.html
 
 reference: https://theaisummer.com/Actor_critics/ xai model Actor-Critics and how A2C and A3C 
