@@ -196,12 +196,14 @@ https://e2eml.school/transformers.html
 https://github.com/eugeneyan/open-llms
 https://gist.github.com/Abonia1/d95c3a4f8640bfaf0cceb3ee51fffcfd
 
-#############################################################################################""" https://theaisummer.com/apache-airflow-tutorial/
+https://theaisummer.com/apache-airflow-tutorial/
 https://tooploox.com/genai-recap-5-takeaways-from-the-generative-ai-conference
 https://limelightmagazine.com.au/features/decoding-da-vinci/
 https://python-course.eu/applications-python/finite-state-machine.php
 https://python-course.eu/applications-python/graphs-python.php
 https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3 """
+
+https://aman.ai/primers/ai/LLM/ developments
 
 5 GenAI Key takeaways
  1: the future of DIGITAL marketing (but not only)
