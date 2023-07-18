@@ -223,3 +223,14 @@ https://tooploox.com/genai-recap-5-takeaways-from-the-generative-ai-conference
 https://www.youtube.com/watch?v=XJRW6jamUHk&t=15s Understanding the Z-Transform
 Matlab Psss Feedback Loop Transformation Function 
 #AI https://en.wikipedia.org/wiki/Closed-loop_transfer_function
+
+Fine-tuning open source language models (#LLM) like Falcon-7b or GPT-J-6b using Ray AIR is a valuable option & a reoccurring pattern and stack for distributed fine-tuning.
+
+Below 👇 we share two simple demonstrations on how to take a #HuggingFace Transformer LLM such as #FALCON-7B or #EleutherAI-GPT-J/6B and fine-tune it with your own dataset.
+👉 Fine-tune #FALCON-7B w/ Ray AIR, DeepSpeed, & Hugging Face https://lnkd.in/gjPuYAaA
+👉 Fine-tune a #EleutherAI-GPT-J/6B w/Ray AIR, DeepSpeed, & Hugging Face https://lnkd.in/gwZMwYKP
+
+Thanks to Adrián Bazaga for sharing his work with the community on fine-tuning FALCON-7B using #RayAIR
+
+#Ray AIR provides composable #TransfomerTrainers (https://lnkd.in/gZJipkby) for developers to easily include their #HuggingFace Trainers code.
+
