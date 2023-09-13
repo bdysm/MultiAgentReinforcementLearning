@@ -1,8 +1,8 @@
-Data Science User Case: 
+# Data Science User Case: 
 
-A.I. decision advantage intelligence model 
+## Genrative A.I. decision advantage intelligence model 
 
-definition: Within intelligence circles, achieving decision advantage requires greatly accelerated tasking, collecting, processing, exploiting, and dissemination of operationally useful information that informs timely decisions at all levels of the joint operating forces and government.
+definition: Within intelligence circles, achieving decision advantage requires greatly accelerated tasking, collecting, processing, exploiting, and dissemination of operationally useful information that informs timely decisions at all levels of the joint operating capital forces .
 
 Decision advantage is what results when intelligence enables a decision-maker to better understand and address an issue. It requires:
 
