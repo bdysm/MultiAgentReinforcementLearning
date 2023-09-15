@@ -1,6 +1,6 @@
 # Data Science User Case: 
 
-## Genrative A.I. decision advantage intelligence model 
+## Generative A.I. decision advantage intelligence model 
 
 definition: Within intelligence circles, achieving decision advantage requires greatly accelerated tasking, collecting, processing, exploiting, and dissemination of operationally useful information that informs timely decisions at all levels of the joint operating capital forces .
 
