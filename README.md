@@ -1,27 +1,8 @@
 # 🔗 Data Science User Case: 
 
-## Generative A.I. decision advantage intelligence model 
+**🤖 Agents:**
 
-definition: Within intelligence circles, achieving decision advantage requires greatly accelerated tasking, collecting, processing, exploiting, and dissemination of operationally useful information that informs timely decisions at all levels of the joint operating capital forces .
 
-Decision advantage is what results when intelligence enables a decision-maker to better understand and address an issue. It requires:
-
-1) Intelligence that is timely, accurate, and relevant to a given issue and;
-
-2) At least one decision-maker who possesses the expertise and resources needed to evaluate and action the intelligence within the context of the issue.
-
-In a fast paced techy world of #Generative AI there is imperfect information gain usually not linear transmitted globally # non constatnt velocity representing a non stationary graph GNN in  a state space decomposition environment and clustered asynchronous clusters of human agents, bots or both referenced by https://github.com/h2oai/h2ogpt evolution diffussion model GPU usuage  https://yang-song.net/blog/2021/score/ https://lilianweng.github.io/posts/2021-07-11-diffusion-models/?utm_source=pocket_saveshttps://github.com/eugeneyan/open-llms https://towardsdatascience.com/zero-etl-chatgpt-and-the-future-of-data-engineering-71849642ad9c
-
-https://www.builder.ai/builder-cloud
-https://huggingface.co/docs/hub/spaces
-https://streamlit.io/
-https://pytorch.org/blog/a-better-transformer-for-fast-transformer-encoder-inference/
-
-#AI #tool https://gto76.github.io/python-cheatsheet/index.html?theme=dark3
-#chatGPT #AI #data #closedloop #semisupervisedlearning #secrets of #AI 
-
-Leaderboard of recent Llama models
-https://weightwatcher.ai/leaderboard.html
 
 Psss ai is speed, size, performance http://incompleteideas.net/IncIdeas/BitterLesson.html
 
@@ -206,6 +187,30 @@ https://python-course.eu/applications-python/graphs-python.php
 https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3 """
 
 https://aman.ai/primers/ai/LLM/ developments
+
+## Generative A.I. decision advantage intelligence model 
+
+definition: Within intelligence circles, achieving decision advantage requires greatly accelerated tasking, collecting, processing, exploiting, and dissemination of operationally useful information that informs timely decisions at all levels of the joint operating capital forces .
+
+Decision advantage is what results when intelligence enables a decision-maker to better understand and address an issue. It requires:
+
+1) Intelligence that is timely, accurate, and relevant to a given issue and;
+
+2) At least one decision-maker who possesses the expertise and resources needed to evaluate and action the intelligence within the context of the issue.
+
+In a fast paced techy world of #Generative AI there is imperfect information gain usually not linear transmitted globally # non constatnt velocity representing a non stationary graph GNN in  a state space decomposition environment and clustered asynchronous clusters of human agents, bots or both referenced by https://github.com/h2oai/h2ogpt evolution diffussion model GPU usuage  https://yang-song.net/blog/2021/score/ https://lilianweng.github.io/posts/2021-07-11-diffusion-models/?utm_source=pocket_saveshttps://github.com/eugeneyan/open-llms https://towardsdatascience.com/zero-etl-chatgpt-and-the-future-of-data-engineering-71849642ad9c
+
+https://www.builder.ai/builder-cloud
+https://huggingface.co/docs/hub/spaces
+https://streamlit.io/
+https://pytorch.org/blog/a-better-transformer-for-fast-transformer-encoder-inference/
+
+#AI #tool https://gto76.github.io/python-cheatsheet/index.html?theme=dark3
+#chatGPT #AI #data #closedloop #semisupervisedlearning #secrets of #AI 
+
+Leaderboard of recent Llama models
+https://weightwatcher.ai/leaderboard.html
+
 
 5 GenAI Key takeaways
  1: the future of DIGITAL marketing (but not only)
