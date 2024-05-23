@@ -2,7 +2,16 @@
 
 **🤖 Agents:**
 
+The emergence of a complex adaptive behavior via 
+interactions of the agents with their environment.  
 
+Scanning the special section on technologies of large scale
+ and complex systems
+ Mietek Brdysa,b,*
+ a School of Electronic, Electrical and Computer Engineering, College of Engineering & Physical Science, University of Birmingham,
+ Birmingham B15 2TT, UK
+ b Department of Automatic Control, Gdansk University of Technology, 80 9 52 Gdansk, Poland
+ Accepted 4 March 2008
 
 Psss ai is speed, size, performance http://incompleteideas.net/IncIdeas/BitterLesson.html
 
